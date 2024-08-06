@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ZBVTF625HW.com.app.frnd",
+        "paths": [ "/applink/*" ]
+      }
+    ]
+  }
+}
